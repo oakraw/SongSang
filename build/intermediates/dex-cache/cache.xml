@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/classes-e27573a6946cc2d73b996765ab4024895aed95cf.jar"
+        jar="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/2.1.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="71d1987edb977b71278744df1b331797da627fe9"/>
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/classes-c951362ab7c2952edf71884a10b8fc64c5bbe772.jar"
+        jar="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/exploded-aar/SangSawang/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e2d818f9169427a9b5a6a29711fa7c5e14dbddeb"/>
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/classes-701e5f484e95cc74475cfa9b7115e1f80d1ed866.jar"
+        jar="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/gson-2.1-53413c412c5298fa12225651964b6acaccdb9c64.jar"
+        jar="/Users/Rawipol/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.1/2e66da15851f9f5b5079228f856c2f090ba98c38/gson-2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38"/>
+    <item
+        dex="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ec3c780260c7db8398bc49d6882a3815010fc1df.jar"
+        jar="/Users/Rawipol/Desktop/SangSawang/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
